@@ -75,6 +75,6 @@ npm run dev
 ## 🌐 Live Web App  
 You can try the live version of this project here:
 
-👉 **Live Demo:** <a href="">SmartCampus</a>
+👉 **Live Demo:** <a href="https://smart-education-webpage.vercel.app">SmartCampus</a>
 
 ---
